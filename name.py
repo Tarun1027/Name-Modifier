@@ -1,4 +1,4 @@
-name = input("Enter Your Name : ")
+name = input("Enter Your Name :")
 for i in name:
     ch = i.upper()
     if ch == 'A':
